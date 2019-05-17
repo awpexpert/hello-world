@@ -1,2 +1,2 @@
 # hello-world
-a hello world application
+starting to use git and github.
